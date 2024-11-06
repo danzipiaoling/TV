@@ -69,20 +69,18 @@ CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=86
 延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 🏠广东频道,#genre#
 广东珠江,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8
-广东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+广东卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8
 大湾区卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
 深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226313/index.m3u8
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-1.ctv
-汕头综合,http://udmark.cn:8081/udp/239.21.0.101:3744
-汕头经济,http://udmark.cn:8081/udp/239.21.0.102:3748
-汕头文旅体育,http://udmark.cn:8081/udp/239.21.0.103:3752
+汕头综合,http://113.102.83.24:4022/udp/239.77.1.130:5146
+汕头经济,http://113.102.83.24:4022/udp/239.77.1.131:5146
+汕头文旅体育,http://113.102.83.24:4022/udp/239.77.1.132:5146
 🌊港·澳·台,#genre#
 翡翠台,https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-12.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-6.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-14.ctv
-凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-19.ctv
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰香港,https://stream1.freetv.fun/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.ctv
 凤凰香港,https://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
